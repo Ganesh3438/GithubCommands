@@ -1,0 +1,19 @@
+// git init - Initialized empty git repository in D:/Framework/com.test-automation/.git
+// git remote add origin https://github.com/Ganesh3438/GithubCommands.git
+// git status -- Will show us untracket files
+// git add -- will add to the stage
+// git commit -m "Added test cases"
+// git push origin master
+// git log
+// git log -2 ---> This will give us last two commits info
+// git log --author="Ganesh3438"
+// git log --before="2023-10-19"
+// git log --after="one week ago"
+// git log --stat --> list of modified files
+// git show  -- It will show last commit code
+// git log --oneline -- It will all the list of commit codes
+// git show HEAD -- It will give you last commit head
+
+
+
+ls -alt 
